@@ -1,0 +1,6 @@
+C:\Users\misiriaj\Assignment2A\Assignment2A\bin\Debug\Assignment2A.exe.config
+C:\Users\misiriaj\Assignment2A\Assignment2A\obj\Debug\Assignment2A.csprojResolveAssemblyReference.cache
+C:\Users\misiriaj\Assignment2A\Assignment2A\bin\Debug\Assignment2A.exe
+C:\Users\misiriaj\Assignment2A\Assignment2A\bin\Debug\Assignment2A.pdb
+C:\Users\misiriaj\Assignment2A\Assignment2A\obj\Debug\Assignment2A.exe
+C:\Users\misiriaj\Assignment2A\Assignment2A\obj\Debug\Assignment2A.pdb

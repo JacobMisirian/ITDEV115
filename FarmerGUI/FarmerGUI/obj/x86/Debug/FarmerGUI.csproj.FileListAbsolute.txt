@@ -1,0 +1,7 @@
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.pdb
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\obj\x86\Debug\FarmerGUI.Form1.resources
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\obj\x86\Debug\FarmerGUI.Properties.Resources.resources
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\obj\x86\Debug\FarmerGUI.csproj.GenerateResource.Cache
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\obj\x86\Debug\FarmerGUI.exe
+c:\users\jacob.misirian\documents\visual studio 2010\Projects\FarmerGUI\FarmerGUI\obj\x86\Debug\FarmerGUI.pdb

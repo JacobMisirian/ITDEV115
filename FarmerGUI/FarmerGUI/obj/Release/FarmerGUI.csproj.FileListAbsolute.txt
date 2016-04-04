@@ -1,0 +1,8 @@
+c:\users\misiriaj\FarmerGUI\FarmerGUI\bin\Release\FarmerGUI.exe.config
+c:\users\misiriaj\FarmerGUI\FarmerGUI\bin\Release\FarmerGUI.exe
+c:\users\misiriaj\FarmerGUI\FarmerGUI\bin\Release\FarmerGUI.pdb
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Release\FarmerGUI.frmMain.resources
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Release\FarmerGUI.Properties.Resources.resources
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Release\FarmerGUI.csproj.GenerateResource.Cache
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Release\FarmerGUI.exe
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Release\FarmerGUI.pdb

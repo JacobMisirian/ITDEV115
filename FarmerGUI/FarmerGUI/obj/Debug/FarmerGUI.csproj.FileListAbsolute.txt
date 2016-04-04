@@ -1,0 +1,9 @@
+c:\users\misiriaj\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe.config
+c:\users\misiriaj\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.exe
+c:\users\misiriaj\FarmerGUI\FarmerGUI\bin\Debug\FarmerGUI.pdb
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.csprojResolveAssemblyReference.cache
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.frmMain.resources
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.Properties.Resources.resources
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.csproj.GenerateResource.Cache
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.exe
+c:\users\misiriaj\FarmerGUI\FarmerGUI\obj\Debug\FarmerGUI.pdb

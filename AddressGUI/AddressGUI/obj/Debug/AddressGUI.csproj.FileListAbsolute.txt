@@ -1,0 +1,9 @@
+c:\users\reagan\AddressGUI\AddressGUI\bin\Debug\AddressGUI.exe.config
+c:\users\reagan\AddressGUI\AddressGUI\bin\Debug\AddressGUI.exe
+c:\users\reagan\AddressGUI\AddressGUI\bin\Debug\AddressGUI.pdb
+c:\users\reagan\AddressGUI\AddressGUI\obj\Debug\AddressGUI.csprojResolveAssemblyReference.cache
+c:\users\reagan\AddressGUI\AddressGUI\obj\Debug\AddressGUI.frmMain.resources
+c:\users\reagan\AddressGUI\AddressGUI\obj\Debug\AddressGUI.Properties.Resources.resources
+c:\users\reagan\AddressGUI\AddressGUI\obj\Debug\AddressGUI.csproj.GenerateResource.Cache
+c:\users\reagan\AddressGUI\AddressGUI\obj\Debug\AddressGUI.exe
+c:\users\reagan\AddressGUI\AddressGUI\obj\Debug\AddressGUI.pdb
